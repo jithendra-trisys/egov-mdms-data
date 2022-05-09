@@ -5,11 +5,11 @@
     {
       "name": "Panjab",
       "code": "pb",
-      "qrCodeURL": "https://raw.githubusercontent.com/egovernments/frontend/master/web/rainmaker/dev-packages/egov-ui-kit-dev/src/assets/images/qrImage.png",
-      "bannerUrl": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/Punjab-bg-QA.jpg",
-      "logoUrl": "https://raw.githubusercontent.com/egovernments/egov-web-app/rainmaker-v1-dynamic-state/web/rainmaker/packages/assets/images/pb/mseva-punjab.png",
-      "logoUrlWhite": "https://dev.digit.org/egov-dev-assets/logo-mseva-white.png",
-      "statelogo":"https://dev.digit.org/egov-dev-assets/pblogo.png",
+      "qrCodeURL": "https://jaydev-image.s3.ap-south-1.amazonaws.com/assets/wb/images/wb-qrImage.png",
+      "bannerUrl": "https://jaydev-image.s3.ap-south-1.amazonaws.com/assets/wb/images/wb-bg.jpg",
+      "logoUrl": "https://jaydev-image.s3.ap-south-1.amazonaws.com/assets/wb/images/wb-mseva.png",
+      "logoUrlWhite": "https://jaydev-image.s3.ap-south-1.amazonaws.com/assets/wb/images/wb-logo-mseva-white.png",
+      "statelogo":"https://jaydev-image.s3.ap-south-1.amazonaws.com/assets/wb/images/wb-logo.png",
       "hasLocalisation": true,
       "enableWhatsApp": true,
       "defaultUrl": {
@@ -26,8 +26,8 @@
           "value": "hi_IN"
         },
         {
-          "label": "ਪੰਜਾਬੀ",
-          "value": "pn_IN"
+          "label": "বাংলা",
+          "value": "bn_IN"
         }
       ],
       "localizationModules": [
