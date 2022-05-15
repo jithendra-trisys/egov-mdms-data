@@ -17,7 +17,7 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Hooghly",
+        "name": "Hooghly1",
         "localName": null,
         "districtCode": null,
         "districtName": null,
@@ -28,7 +28,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "1013",
-        "ddrName": "Hooghly-MC"
+        "ddrName": "Hooghly1-MC"
       },
       "address": "Office of the District Magistrate, New Administrative Building (2nd Floor), P.O Chinsurah District: Hooghly, Pin-712101",
       "pincode": [],
@@ -38,8 +38,8 @@
     },
     {
       "code": "pb.jalandhar",
-      "name": "Hooghly",
-      "description": "Hooghly",
+      "name": "Hooghly1",
+      "description": "Hooghly1",
       "logoId": "https://jaydev-image.s3.ap-south-1.amazonaws.com/assets/wb/images/wb-logo.png",
       "imageId": "https://jaydev-image.s3.ap-south-1.amazonaws.com/assets/wb/images/wb-logo.png",
       "domainUrl": "hooghly.nic.in",
@@ -106,7 +106,7 @@
     },
     {
       "code": "pb.amritsar",
-      "name": "Murshidabad",
+      "name": "Hooghly",
       "description": null,
       "logoId": "https://jaydev-image.s3.ap-south-1.amazonaws.com/assets/wb/images/wb-logo.png",
       "imageId": "https://jaydev-image.s3.ap-south-1.amazonaws.com/assets/wb/images/wb-logo.png",
@@ -120,7 +120,7 @@
         "Sat": "9.00 AM - 12.00 PM"
       },
       "city": {
-        "name": "Murshidabad",
+        "name": "Hooghly",
         "localName": null,
         "districtCode": null,
         "districtName": null,
@@ -131,9 +131,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "107",
-        "ddrName": "Murshidabad-MC"
+        "ddrName": "Hooghly-MC"
       },
-      "address": "Murshidabad, West Bengal",
+      "address": "Hooghly, West Bengal",
       "pincode": [742122,742227,742226,742234,742223,742135,742223,742224,742301,742113],
       "contactNumber": "0183-2545155",
       "helpLineNumber": "0183-2210300",
